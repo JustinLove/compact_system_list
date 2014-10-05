@@ -6,7 +6,7 @@
   "date": "2014/10/05",
   "description": "Waste less space on the Load Planet screen, so you can see more.",
   "display_name": "Compact System List",
-  "forum": "https://forums.uberent.com/threads/can-we-have-smaller-load-system-icons.64877/",
+  "forum": "https://forums.uberent.com/threads/rel-compact-system-list.64891/",
   "identifier": "com.wondible.pa.compact_system_list",
   "priority": 100,
   "scenes": {
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
