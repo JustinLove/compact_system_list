@@ -1,7 +1,12 @@
 .one-system .system-thumb {
   height: 60px;
+  background-position: center center;
 }
 
 .one-system .system-thumb .position {
-  height: 140px;
+  height: 80px;
+}
+
+.one-system .system-thumb img {
+  margin-top: 0px !important;
 }
