@@ -1,9 +1,9 @@
 {
   "author": "wondible",
-  "build": "73441",
+  "build": "74416-main",
   "category": ["ui"],
   "context": "client",
-  "date": "2014/10/06",
+  "date": "2014/10/28",
   "description": "Waste less space on the Load Planet screen, so you can see more.",
   "display_name": "Compact System List",
   "forum": "https://forums.uberent.com/threads/rel-compact-system-list.64891/",
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.0.1"
+  "version": "2.0.0"
 }
 

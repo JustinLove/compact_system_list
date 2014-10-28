@@ -1,12 +1,28 @@
-.one-system .system-thumb {
-  height: 60px;
-  background-position: center center;
+div.system-list {
+  display: flex;
+  flex-flow: row wrap;
 }
 
-.one-system .system-thumb .position {
-  height: 80px;
+div.one-system {
+  width: auto;
+  margin: 1px;
+  display: inline-block;
 }
 
-.one-system .system-thumb img {
-  margin-top: 0px !important;
+div.system-properties {
+  flex-flow: column;
+  padding: 2px;
+}
+
+div.system-title {
+  width: auto;
+}
+
+div.system-planet-grp {
+  width: auto;
+  flex-grow: 0;
+}
+
+div.system-player-reco {
+  width: auto;
 }
